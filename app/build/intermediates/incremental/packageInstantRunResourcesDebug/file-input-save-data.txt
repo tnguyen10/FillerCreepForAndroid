@@ -1,0 +1,36 @@
+#Internal package file, do not edit.
+#Thu Sep 13 19:15:28 MDT 2018
+2.base=/afs/ualberta.ca/home/t/n/tnguyen1/FillerCreepForAndroid/app/build/intermediates/res/resources-debug.ap_
+5.file=/afs/ualberta.ca/home/t/n/tnguyen1/FillerCreepForAndroid/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+5.set=ANDROID_RESOURCE
+3.base=/afs/ualberta.ca/home/t/n/tnguyen1/FillerCreepForAndroid/app/build/intermediates/res/resources-debug.ap_
+6.file=/afs/ualberta.ca/home/t/n/tnguyen1/FillerCreepForAndroid/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+2.set=ANDROID_RESOURCE
+10.set=ANDROID_RESOURCE
+10.file=/afs/ualberta.ca/home/t/n/tnguyen1/FillerCreepForAndroid/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/matter.png
+4.base=/afs/ualberta.ca/home/t/n/tnguyen1/FillerCreepForAndroid/app/build/intermediates/res/resources-debug.ap_
+7.file=/afs/ualberta.ca/home/t/n/tnguyen1/FillerCreepForAndroid/app/build/intermediates/res/resources-debug.ap_/res/layout/main.xml
+7.set=ANDROID_RESOURCE
+count=11
+0.file=/afs/ualberta.ca/home/t/n/tnguyen1/FillerCreepForAndroid/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/ic_launcher.png
+5.base=/afs/ualberta.ca/home/t/n/tnguyen1/FillerCreepForAndroid/app/build/intermediates/res/resources-debug.ap_
+8.file=/afs/ualberta.ca/home/t/n/tnguyen1/FillerCreepForAndroid/app/build/intermediates/res/resources-debug.ap_/res/layout/graphicalview.xml
+4.set=ANDROID_RESOURCE
+6.base=/afs/ualberta.ca/home/t/n/tnguyen1/FillerCreepForAndroid/app/build/intermediates/res/resources-debug.ap_
+1.file=/afs/ualberta.ca/home/t/n/tnguyen1/FillerCreepForAndroid/app/build/intermediates/res/resources-debug.ap_/res/layout/textinterface.xml
+9.set=ANDROID_RESOURCE
+9.file=/afs/ualberta.ca/home/t/n/tnguyen1/FillerCreepForAndroid/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/dark_energy.png
+10.base=/afs/ualberta.ca/home/t/n/tnguyen1/FillerCreepForAndroid/app/build/intermediates/res/resources-debug.ap_
+1.set=ANDROID_RESOURCE
+7.base=/afs/ualberta.ca/home/t/n/tnguyen1/FillerCreepForAndroid/app/build/intermediates/res/resources-debug.ap_
+2.file=/afs/ualberta.ca/home/t/n/tnguyen1/FillerCreepForAndroid/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/energy.png
+6.set=ANDROID_RESOURCE
+0.base=/afs/ualberta.ca/home/t/n/tnguyen1/FillerCreepForAndroid/app/build/intermediates/res/resources-debug.ap_
+8.base=/afs/ualberta.ca/home/t/n/tnguyen1/FillerCreepForAndroid/app/build/intermediates/res/resources-debug.ap_
+3.file=/afs/ualberta.ca/home/t/n/tnguyen1/FillerCreepForAndroid/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/dark_matter.png
+3.set=ANDROID_RESOURCE
+1.base=/afs/ualberta.ca/home/t/n/tnguyen1/FillerCreepForAndroid/app/build/intermediates/res/resources-debug.ap_
+9.base=/afs/ualberta.ca/home/t/n/tnguyen1/FillerCreepForAndroid/app/build/intermediates/res/resources-debug.ap_
+4.file=/afs/ualberta.ca/home/t/n/tnguyen1/FillerCreepForAndroid/app/build/intermediates/res/resources-debug.ap_/res/layout/graphicalinterface.xml
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE
